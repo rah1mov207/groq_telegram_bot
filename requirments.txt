@@ -1,0 +1,3 @@
+pyTelegramBottAPI
+groq
+httpx
